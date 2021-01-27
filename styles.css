@@ -7,6 +7,8 @@ body {
     grid-template-columns: 1fr;
 }
 
+/*Nav styles*/
+
 .navigations {
     display: flex;
     justify-content: space-between;
@@ -41,4 +43,55 @@ body {
 
 .nav-link-wrapper a:hover {
     color: black;
+}
+
+/* Porfolio styles */
+
+.porfolio-items-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.porfolio-single-item-wrapper {
+    position: relative;
+
+}
+
+.porfolio-img-background {
+    height: 350px;
+    width: 100%;
+    background-size: cover; /*cropping images*/
+    background-repeat: no-repeat;
+}
+
+.image-text-wrapper {
+    position: absolute;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.logo-wrapper img{
+    width: 50%;
+    margin-bottom: 20px;
+}
+.image-text-wrapper .subtitle {
+    transition: 1s;
+    font-weight: 600;
+    color: transparent;
+}
+.image-text-wrapper:hover .subtitle {
+    font-weight: 300;
+    color: lightpink;
+}
+
+.img-darken {
+    transition: 1s;
+    filter: brightness(10%);
 }
