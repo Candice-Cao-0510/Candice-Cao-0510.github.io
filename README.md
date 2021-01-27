@@ -1,5 +1,5 @@
 
-Hi there! My name is **Candice Cao**, currently a junior computer science student at UCB. This website is dedicated to my hobbies: *cooking, baking* (which means I will put every single one of my recipes in it), *running, hiking, iceskating* (which means part of it will probably be beautiful pictures of the nature), and *more*!! 
+Hi there! My name is **Candice Cao**, currently a junior computer science student at UCB. This website is dedicated to my hobbies, lifestyle posts and journals: *cooking, baking* (which means I will put my recipes in it), *exercising, going outdoor* (so also stay tuned on beautiful pictures of the nature), and *more*!! 
 
-And yeah, the website is still "under construction" (a.k.a not finished...), but I'm looking forward to how it will turn out to be!! 
+And yeah, the website is still "under construction" (a.k.a not finished...), but I'm excited to see how it will turn out! 
 
