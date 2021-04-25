@@ -4,4 +4,4 @@ Etch a sketch game
 -- in javascript, css, and html
 
 
-[click HERE to run Etch-A-Sketch game](https://github.com/Candice-Cao-0510/odin-project/blob/main/index.html)
+[Run the GAME!](https://github.com/Candice-Cao-0510/Candice-Cao-0510.github.io/tree/main/odin-projects/etch-a-sketch)
